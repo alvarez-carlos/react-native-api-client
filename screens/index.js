@@ -1,0 +1,5 @@
+export { default as mealsScreen } from './meals.js'
+export { default as modalScreen } from './modal.js'
+export { default as loginScreen } from './login.js'
+export { default as registerScreen } from './register.js'
+export { default as authScreen } from './auth.js'
